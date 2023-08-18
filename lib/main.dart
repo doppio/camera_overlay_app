@@ -116,7 +116,7 @@ class Home extends HookWidget {
     await camera.initialize();
 
     camera.setZoomLevel(1.0);
-    // camera.setFlashMode(FlashMode.off);
+    camera.setFlashMode(FlashMode.off);
     camera.setFocusMode(FocusMode.auto);
     camera.setExposureMode(ExposureMode.auto);
     camera.unlockCaptureOrientation();

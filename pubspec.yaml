@@ -33,7 +33,6 @@ dependencies:
   hooks_riverpod: ^1.0.0
   flutter_hooks: ^0.18.0
   camera: ^0.10.5+2
-  camerawesome: ^2.0.0-dev.1
   image_picker: ^1.0.1
   image_gallery_saver: ^2.0.3
   permission_handler: ^9.0.0
